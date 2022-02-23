@@ -2,7 +2,7 @@
 
 Last updated: 22 02, 2022
 
-This privacy policy governs your use of the software application "MyQR" (later referred as the/this “Application”) for Android™ mobile devices that was created by NamNguyenReplIT.
+This privacy policy governs your use of the software application "QrScanner" (later referred as the/this “Application”) for Android™ mobile devices that was created by NamNguyenReplIT.
 
 The Application is a mobile Android application intended to help you create qr code or scan and read data from qr code or barcode. 
 You are able to extra scanned data to send to your API endpoint.
